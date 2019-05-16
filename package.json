@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-gda",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "stylelint config based on standard, recommended-scss and rational-order. Used in gda-scripts.",
   "keywords": [
     "stylelint-config"
@@ -12,11 +12,11 @@
   "dependencies": {},
   "devDependencies": {},
   "peerDependencies": {
-    "prettier": "^1.16.4",
-    "stylelint": "^9.10.1",
-    "stylelint-config-rational-order": "^0.0.4",
-    "stylelint-config-recommended-scss": "^3.2.0",
-    "stylelint-config-standard": "^18.2.0",
-    "stylelint-prettier": "^1.0.6"
+    "prettier": "^1.17.0",
+    "stylelint": "^10.0.0",
+    "stylelint-config-rational-order": "^0.1.0",
+    "stylelint-config-recommended-scss": "^3.3.0",
+    "stylelint-config-standard": "^18.3.0",
+    "stylelint-prettier": "^1.1.0"
   }
 }
